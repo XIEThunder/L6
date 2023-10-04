@@ -39,14 +39,6 @@
     "workspace": {
         "@folders": [
             {
-                "name": "demo",
-                "path": "/L2/demo"
-            },
-            {
-                "name": "kadai1",
-                "path": "/L2/kadai1"
-            },
-            {
                 "name": "SWEXE-L3-Rails7",
                 "path": "/L3/SWEXE-L3-Rails7"
             }
